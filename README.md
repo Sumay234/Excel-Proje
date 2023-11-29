@@ -1,4 +1,5 @@
-# Excel-Projects
+# Excel-Projects:
+Virnda Sales DataSet
 
 # Problem Statement Regarding to DataSet:
 1) Compare the Sales and Order using Single Chart
@@ -9,7 +10,8 @@
 6) Relation between age and gender based on number.
 7) Which Channel is Contributing to Maximum Sales?
 8) Find out the Highest selling category?					
-				
+
+
 				
 								
 				
