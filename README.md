@@ -11,12 +11,12 @@ Virnda Sales DataSet
 7) Which Channel is Contributing to Maximum Sales?
 8) Find out the Highest selling category?					
 
-
-				
+			
 								
 				
 				
-				
+				![Screenshot 2023-11-29 093233](https://github.com/Sumay234/Excel-Proje/assets/110117279/9776ed88-f86c-480c-8e82-c73b243547db)
+
 				
 				
 				
