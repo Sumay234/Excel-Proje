@@ -15,7 +15,7 @@ Virnda Sales DataSet
 								
 				
 				
-				![Screenshot 2023-11-29 093233](https://github.com/Sumay234/Excel-Proje/assets/110117279/9776ed88-f86c-480c-8e82-c73b243547db)
+				
 
 				
 				
